@@ -47,3 +47,7 @@ Future Enhancements
 Author
 
 Designed and developed for educational and practical implementation of Verilog-based FSM (Finite State Machine) systems. 🚗🔒
+
+#### note ####
+
+!!! Board Selection is Negligible: This design is hardware-agnostic, and not tested on any board !!!
